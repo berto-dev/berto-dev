@@ -1,0 +1,4 @@
+sitemap:   https://berto.dev/sitemap.xml
+sitemap:   http://berto.dev/sitemap.xml
+User-agent:*
+#Crawl-delay: 2
