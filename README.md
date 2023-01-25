@@ -1,6 +1,6 @@
 <div align="center">
 
-_"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://bertz.tech/)**
+_"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://berto.dev/)**
 
 <hr>
   
@@ -18,7 +18,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     <code>"An ex creative passed to darkside of force... the coding."</code>
     <br>
     <br>
-    <a align="center" href="https://www.instagram.com/bertz.tech/">
+    <a align="center" href="https://www.instagram.com/berto.dev/">
       <img alt="Bertz Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
     </a>
     &nbsp;
@@ -40,7 +40,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
       <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/pinterest.png" />
     </a>
     &nbsp;
-    <a align="center" target="_blank" href="https://bertz.tech/">
+    <a align="center" target="_blank" href="https://berto.dev/">
       <img alt="Bertz Alberto Marà google" width="30px" src="./resources/google.png" />
     </a>
     <br>
@@ -150,7 +150,7 @@ custom stats:
 ![](https://img.shields.io/badge/OS-Apple-informational?style=flat-square&logo=Apple&logoColor=white&color=aqua)
 
 https://bertz-tech.github.io/
-https://bertz.tech/
+https://berto.dev/
 
 
 -->
