@@ -48,6 +48,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now <wbr>I make modern designs and software structures, line by line and code by code.
     <br>
+    <b>{ MERN STACK - PHP - C# }</b>
   <div>
 <br>
 </div>
