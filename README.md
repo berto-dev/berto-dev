@@ -4,7 +4,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr>
   
-<img alt="alberto marangelo works tech hub" src="./resources/berto.logo-banner.gif" />
+<img alt="alberto marangelo works tech hub" src="./resources/berto.logo-banner.webp" />
 
 <hr>
 
