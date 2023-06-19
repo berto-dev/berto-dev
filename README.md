@@ -14,7 +14,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
   <div align="center">
-    <b>DIGIΓΔL / IT ROMA</b><br>berto.WORKS / SHAPE DIGITAL GROUP<b><br>
+    <b>DIGIΓΔL / IT ROMA</b><br>https://berto.dev /DEVEET GROUP<b><br>
     👋 Hello World! I’m Alberto, aka @berto-dev </b>
     <br>
     <code>"An ex creative passed to darkside of force... the coding."</code>
@@ -48,7 +48,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now <wbr>I make modern designs and software structures, line by line and code by code.
     <br>
-    <b>{ MERN STACK - PHP - C# }</b>
+    <b>{ FULLSTACK JS - NODE - PHP - C# }</b>
   <div>
 <br>
 </div>
