@@ -115,9 +115,11 @@ article>header {
 }
 
 article>header img[src$='bkg.head.faceprofile.webp'] {
-    width: 376px;
-    height: 634px;
-    min-height: 100%;
+    /* width: 376px;
+    height: 634px; */
+	min-height: 100%;
+    max-width: 450px !important;
+	min-width: 376px;
 }
 
 @media only screen {
@@ -134,7 +136,7 @@ article>header img[src$='bkg.head.faceprofile.webp'] {
         article>header img[src$='bkg.head.faceprofile.webp'] {
             position: absolute;
         }
-        article>header img[src$='img.bertz.logo.svg'] {
+        article>header img[src$='img.berto.logo.svg'] {
             max-width: 130px;
             margin: 40px 0 40px 0;
         }
@@ -157,7 +159,7 @@ article>header img[src$='bkg.head.faceprofile.webp'] {
         article>header>div {
             width: 100%;
         }
-        article>header img[src$='img.bertz.logo.svg'] {
+        article>header img[src$='img.berto.logo.svg'] {
             max-width: 160px;
             margin: 40px auto;
         }
@@ -166,7 +168,7 @@ article>header img[src$='bkg.head.faceprofile.webp'] {
             padding-right: 9vw;
             margin: 0 auto -200px;
             height: auto;
-            max-width: 90%;
+            /* max-width: 90%; */
         }
     }
 }
@@ -496,6 +498,7 @@ nav:first-of-type li img {
 
 
 /*=====================*/
+
 
 #info .grid {
     margin-bottom: var(--text_super);
