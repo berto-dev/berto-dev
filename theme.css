@@ -117,9 +117,10 @@ article>header {
 article>header img[src$='bkg.head.faceprofile.webp'] {
     /* width: 376px;
     height: 634px; */
-	min-height: 100%;
+	/* min-height: 100%;
     max-width: 450px !important;
-	min-width: 376px;
+	min-width: 376px; */
+	min-width: 30vw;
 }
 
 @media only screen {
