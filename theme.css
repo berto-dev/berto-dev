@@ -121,6 +121,7 @@ article>header img[src$='bkg.head.faceprofile.webp'] {
     max-width: 450px !important;
 	min-width: 376px; */
 	min-width: 30vw;
+    margin: 2% 0 0 -15%;
 }
 
 @media only screen {
