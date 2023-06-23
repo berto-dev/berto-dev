@@ -27,11 +27,11 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     <a align="center" target="_blank" href="https://github.com/berto-dev/" disabled>
       <img alt="berto Alberto Marà news" width="30px" src="./resources/github.png" />
     </a>
-    <!--
     &nbsp;
-    <a align="center" target="_blank" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
+    <a align="center" target="_blank" href="https://www.linkedin.com/in/berto-dev/">
       <img alt="berto Allberto Marà linkedin" width="30px" src="./resources/linkedin.png" />
     </a>
+     <!--
     &nbsp;
     <a align="center" target="_blank" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
       <img alt="berto Alberto Marà spotify" width="30px" src="./resources/spotify.png" />
