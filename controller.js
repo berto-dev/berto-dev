@@ -12,12 +12,17 @@ window.onload = () => {
 
     let disabled = document.querySelectorAll('*:disabled, [aria-disabled=true], [data-disabled=true]')
 
-    for (let element of disabled) {
-        element.onclick = ev_disable_controller => {
-            ev_disable_controller.preventDefault()
-            return false;
+    if (disabled) {
+
+        for (let element of disabled) {
+            element.onclick = ev_disable_controller => {
+                ev_disable_controller.preventDefault()
+                return false;
+            }
         }
+
     }
+
 
 
     //
@@ -38,27 +43,30 @@ window.onload = () => {
 
     let dfnboxes = document.querySelectorAll('.pop-definition')
 
-    for (let box of dfnboxes) {
+    if (dfnboxes) {
 
-        box.onclick = ev_dfn_controller => {
+        for (let box of dfnboxes) {
 
-            if (!box.hasAttribute('open')) {
+            box.onclick = ev_dfn_controller => {
 
-                for (let b of dfnboxes) { b.removeAttribute('open') }
-                box.setAttribute('open', '')
-                document.querySelectorAll('.overlay')[0].setAttribute('open', '')
+                if (!box.hasAttribute('open')) {
 
-            } else {
+                    for (let b of dfnboxes) { b.removeAttribute('open') }
+                    box.setAttribute('open', '')
+                    document.querySelectorAll('.overlay')[0].setAttribute('open', '')
 
-                box.removeAttribute('open')
-                document.querySelectorAll('.overlay')[0].removeAttribute('open')
+                } else {
+
+                    box.removeAttribute('open')
+                    document.querySelectorAll('.overlay')[0].removeAttribute('open')
+
+                }
+
+                ev_dfn_controller = null
 
             }
 
-            ev_dfn_controller = null
-
         }
-
     }
 
     //
@@ -67,23 +75,27 @@ window.onload = () => {
 
     var btnmore = document.querySelectorAll('.more>button')[0];
 
-    btnmore.onclick = ev_more_controller => {
+    if (btnmore) {
 
-        let contentbox = document.querySelectorAll('.content-cut')[0]
+        btnmore.onclick = ev_more_controller => {
 
-        if (!contentbox.hasAttribute('open')) {
+            let contentbox = document.querySelectorAll('.content-cut')[0]
 
-            contentbox.setAttribute('open', '')
-            btnmore.innerHTML = 'Riduci'
+            if (!contentbox.hasAttribute('open')) {
 
-        } else {
+                contentbox.setAttribute('open', '')
+                btnmore.innerHTML = 'Riduci'
 
-            contentbox.removeAttribute('open')
-            btnmore.innerHTML = 'Espandi'
+            } else {
+
+                contentbox.removeAttribute('open')
+                btnmore.innerHTML = 'Espandi'
+
+            }
+
+            ev_more_controller = null
 
         }
-
-        ev_more_controller = null
-
     }
+
 }
