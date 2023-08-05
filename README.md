@@ -20,7 +20,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     <code>"An ex creative passed to darkside of force... the coding."</code>
     <br>
     <br>
-    <a align="center" href="https://www.instagram.com/berto.dev/">
+    <a align="center" href="https://www.instagram.com/_berto.dev/">
       <img alt="berto Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
     </a>
     &nbsp;
