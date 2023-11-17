@@ -99,8 +99,8 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
 <a href="https://github.com/js-collection" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/109235940?s=200&v=4" size="50" height="50" width="50" align="left">
-    <b>JS-RT : javascript random techniques collection</b><br>
-    A collection of js commons and random patterns 
+    <b>JS-COLLECTION : A javascript resources and techniques collection</b><br>
+    A collection of js commons patterns, tutorials, methods and other...
 </a>
 <br><br>
 <a href="https://github.com/js-react-collection" target="_blank">
