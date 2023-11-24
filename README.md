@@ -111,7 +111,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
 <a href="https://github.com/js-exp-collection" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/113604011?s=200&v=4" size="50" height="50" width="50" align="left">
-    <b>JS-EXP : javascript experiments collection</b><br>
+    <b>JS-EXP : javascript experiments collection [warning: we transfering it on js-collection]</b><br>
     A collection of randomic js experimental scripts
 </a>
 <br><br>
@@ -133,12 +133,10 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     Open source ui libs for web / app
 </a>
 <br><br>
-<b><i>Other Projects:</i></b>
-<br><br>
-<a href="https://github.com/js-node-collection" target="_blank">
+<a href="https://github.com/node-js-collection" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/130677465?s=400&u=1ed7fc04feb49928a24cd044b82bbfb7e0b09787&v=4" size="50" height="50" width="50" align="left">
-    <b>Node Js: Private js server collection</b><br>
-    A closed source complete server system + plugin in nodejs and js
+    <b>Node Js: Open & Private js server collection</b><br>
+    A closed source complete server system + plugin in nodejs and more...
 </a>
 
 
