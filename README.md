@@ -17,7 +17,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     <b>DIGIΓΔL / IT ROMA</b><br>https://berto.dev /DEVEET GROUP<b><br>
     👋 Hello World! I’m Alberto, aka @berto-dev </b>
     <br>
-    <code>"An ex creative passed to darkside of force... the coding."</code>
+    <code>"An ex creative passed to darkside of force... the codes."</code>
     <br>
     <br>
     <a align="center" href="https://www.instagram.com/_berto.dev/">
@@ -58,6 +58,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
   
 ## <b>🚀🧠 systems, tools and technologies</b>
 
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=archlinux&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=aqua)
@@ -67,6 +68,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=CSharp&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Node-Js-informational?style=flat-square&logo=Node.js&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Mongo-DB-informational?style=flat-square&logo=MongoDb&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/React-Js-informational?style=flat-square&logo=react&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Compiler-PWA-informational?style=flat-square&logo=PWA&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Engine-Cordova-informational?style=flat-square&logo=Apache-Cordova&logoColor=white&color=aqua)
