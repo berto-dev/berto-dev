@@ -88,21 +88,23 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Open Projects:
-<a href="https://github.com/wp-collection" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/99553034?s=200&v=4" size="50" height="50" width="50" align="left">
-    <b>wordpress collection</b><br>
-    An open collection of resources and extensions for wordpress
-</a><br><br>
-<a href="https://github.com/ShapeGroup/kimera-frontend-framework" target="_blank">
-    <img src="https://user-images.githubusercontent.com/92259138/153724707-18a7c837-0840-4e21-b7d7-48caa7dd62b1.png" size="50" height="50" width="50" align="left">
-    <b>kimera frontend framework</b><br>
-    An open ui web framework of web 2.0 
-</a>
-<br><br>
+
 <a href="https://github.com/js-collection" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/109235940?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>JS-COLLECTION : A javascript resources and techniques collection</b><br>
     A collection of js commons patterns, tutorials, methods and other...
+</a>
+<br><br>
+<a href="https://github.com/js-exp-collection" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/113604011?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>JS-EXP : javascript experiments collection [warning: we transfering it on js-collection]</b><br>
+    A collection of randomic js experimental scripts
+</a>
+<br><br>
+<a href="https://github.com/node-js-collection" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/130677465?s=400&u=1ed7fc04feb49928a24cd044b82bbfb7e0b09787&v=4" size="50" height="50" width="50" align="left">
+    <b>Node Js: Open & Private js server collection</b><br>
+    A closed source complete server system + plugin in nodejs and more...
 </a>
 <br><br>
 <a href="https://github.com/js-react-collection" target="_blank">
@@ -111,10 +113,16 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     Open source boilerplates etc for react projects
 </a>
 <br><br>
-<a href="https://github.com/js-exp-collection" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/113604011?s=200&v=4" size="50" height="50" width="50" align="left">
-    <b>JS-EXP : javascript experiments collection [warning: we transfering it on js-collection]</b><br>
-    A collection of randomic js experimental scripts
+<a href="https://github.com/wusy-project" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/75279499?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>Wusy: Web Ui System</b><br>
+    Open source ui libs for web / app
+</a>
+<br><br>
+<a href="https://github.com/ShapeGroup/kimera-frontend-framework" target="_blank">
+    <img src="https://user-images.githubusercontent.com/92259138/153724707-18a7c837-0840-4e21-b7d7-48caa7dd62b1.png" size="50" height="50" width="50" align="left">
+    <b>kimera frontend framework</b><br>
+    An open ui web framework of web 2.0 
 </a>
 <br><br>
 <a href="https://github.com/git-tricks-collection" target="_blank">
@@ -129,16 +137,10 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     An alternative and clear theme for wamp 
 </a>
 <br><br>
-<a href="https://github.com/wusy-project" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/75279499?s=200&v=4" size="50" height="50" width="50" align="left">
-    <b>Wusy: Web Ui System</b><br>
-    Open source ui libs for web / app
-</a>
-<br><br>
-<a href="https://github.com/node-js-collection" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/130677465?s=400&u=1ed7fc04feb49928a24cd044b82bbfb7e0b09787&v=4" size="50" height="50" width="50" align="left">
-    <b>Node Js: Open & Private js server collection</b><br>
-    A closed source complete server system + plugin in nodejs and more...
+<a href="https://github.com/wp-collection" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/99553034?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>wordpress collection</b><br>
+    An open collection of resources and extensions for wordpress
 </a>
 
 
