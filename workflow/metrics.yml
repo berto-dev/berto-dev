@@ -16,7 +16,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_lines: yes
           user: berto-dev
           template: classic
           base: header, activity, community, repositories, metadata
