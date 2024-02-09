@@ -1,6 +1,6 @@
 <div align="center">
 
-<b>🕵🏼‍♂️ FOR ALL RECRUITERS</b>: YOU CAN FIND ALL MY <b>[REPO AND PROJECTS IN THIS LIST](#open-projects)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN WEBSITE ➜ ](https://berto.dev/)**
+<b>🕵🏼‍♂️ FOR ALL RECRUITERS</b>: YOU CAN FIND ALL MY <b>[REPO AND PROJECTS IN THIS LIST](#open-projects)</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[ OPEN WEBSITE ➜ ](https://berto.dev/)**
 
 
 
