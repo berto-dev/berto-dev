@@ -138,7 +138,7 @@
 </a>
 <br><br>
 <a href="https://github.com/berto-dev/wamp-theme" target="_blank">
-    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1426821674/hlcxm5vtgoao71jdnp6l.png" size="50" height="50" width="50" align="left">
+    <img src="https://raw.githubusercontent.com/berto-dev/wamp-theme/main/favicon.ico" size="50" height="50" width="50" align="left">
     <b>Wamp Modern Theme</b><br>
     An alternative and clear theme for wamp 
 </a>
