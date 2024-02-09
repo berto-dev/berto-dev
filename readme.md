@@ -2,15 +2,15 @@
 
 <b>🕵🏼‍♂️ FOR ALL RECRUITERS</b>: YOU CAN FIND ALL MY <b>[REPO AND PROJECTS IN THIS LIST](#open-projects)</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[ OPEN WEBSITE ➜ ](https://berto.dev/)**
 
-
-
-<hr>
-  
-<img alt="alberto marangelo works tech hub" src="./resources/berto.logo-banner.webp" />
+</div>
 
 <hr>
 
-![Metrics](/github-metrics.svg)
+<img alt="alberto marangelo works tech hub" src="./resources/berto.logo-banner.webp" /><br>
+
+<hr>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <hr>
 
