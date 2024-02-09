@@ -1,6 +1,6 @@
 <div align="center">
 
-<b>🕵🏼‍♂️ FOR ALL RECRUITERS</b>: YOU CAN FIND ALL MY [REPO AND PROJECTS IN THIS LIST](https://github.com/berto-dev/berto-dev/tree/main?tab=readme-ov-file#open-projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://berto.dev/)**
+<b>🕵🏼‍♂️ FOR ALL RECRUITERS</b>: YOU CAN FIND ALL MY [REPO AND PROJECTS IN THIS LIST](#open-projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://berto.dev/)**
 
 
 
