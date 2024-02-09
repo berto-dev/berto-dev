@@ -1,6 +1,8 @@
 <div align="center">
 
-_"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://berto.dev/)**
+<b>FOR RECRUITERS</b>: YOU CAN FIN MY [PROJECT IN LIST](https://github.com/berto-dev/berto-dev/tree/main?tab=readme-ov-file#open-projects), NO THE STATIC REPO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://berto.dev/)**
+
+
 
 <hr>
   
