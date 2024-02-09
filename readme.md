@@ -8,6 +8,10 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr>
 
+![Metrics](/github-metrics.svg)
+
+<hr>
+
 <table><tr><td>
 
 <!--<img alt="berto works tech hub" align="right" width="220" src="https://github.com/berto-dev/berto-dev/blob/master/resources/cyber.gif?raw=true" />-->
