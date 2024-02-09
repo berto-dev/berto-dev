@@ -18,7 +18,6 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_lines: yes
           user: berto-dev
           config_timezone: Europe/Rome
 
