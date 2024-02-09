@@ -6,8 +6,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    #environment: 
-    #  name: METRICS_TOKEN
+    environment: 
+      name: METRICS_TOKEN
     permissions:
       contents: write
     steps:
@@ -51,7 +51,7 @@ jobs:
           plugin_lines_sections: base
 
 
-
+## ORIGINAL BASIC
 #name: Metrics
 #on:
 #  schedule: [{cron: "0 0 * * *"}]
@@ -66,5 +66,5 @@ jobs:
 #      contents: write
 #    steps:
 #      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+#        with:
+#          token: ${{ secrets.METRICS_TOKEN }}
