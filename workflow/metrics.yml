@@ -17,7 +17,7 @@ jobs:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          template: classic
+          template: Repository template
           base: activity, repositories
           base_indepth: yes
           config_display: columns
