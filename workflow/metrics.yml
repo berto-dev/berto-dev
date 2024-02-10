@@ -16,6 +16,7 @@ jobs:
           user: berto-dev
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
           # Options
           base: activity, repositories
           template: Repository
@@ -29,7 +30,7 @@ jobs:
           plugin_activity_days: 25
           plugin_activity_filter: all
           plugin_activity_limit: 3
-          plugin_activity_load: 300
+          plugin_activity_load: 200
           plugin_activity_visibility: all
 
           plugin_habits: yes
