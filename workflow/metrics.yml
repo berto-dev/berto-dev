@@ -16,6 +16,7 @@ jobs:
           user: berto-dev
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          repo: berto-dev
 
           # Options
           base: activity, repositories
