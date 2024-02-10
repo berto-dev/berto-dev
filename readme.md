@@ -10,7 +10,14 @@
 
 <hr>
 
+<br>
+<br>
 <img src="/github-metrics.svg" width="100%">
+
+<!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=berto-dev\&rank_icon=github\&count_private=true\&theme=transparent\&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berto-dev\&langs_count=8\&theme=transparent\&layout=compact)]()
+-->
 
 <hr>
 
