@@ -20,10 +20,10 @@ jobs:
           # Options
           base: activity, repositories
           template: Repository
-          config_display: large
+          config_display: column
           base_indepth: yes
           config_octicon: yes
-          config_padding: 0, 2 + 5%
+          config_padding: 0, 0 + 0%
           config_timezone: Europe/Rome
 
           plugin_activity: yes
