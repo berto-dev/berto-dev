@@ -10,7 +10,7 @@
 
 <hr>
 
-<img src="/github-metrics.svg" alt="Metrics">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <hr>
 
