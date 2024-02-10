@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<img src="/github-metrics.svg" width="100%"><hr>
+<img src="github-metrics.svg" width="100%"><hr>
 
 <table><tr><td>
 
@@ -92,7 +92,9 @@
 
 </div>
 
-### Open Projects:
+## Folders and projects:
+
+> 🛈 This is the folders projects list with all public repository and code inside
 
 <a href="https://github.com/js-collection" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/109235940?s=200&v=4" size="50" height="50" width="50" align="left">
