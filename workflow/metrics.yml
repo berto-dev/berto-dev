@@ -19,7 +19,7 @@ jobs:
 
           # Options
           base: activity, repositories
-          template: Repository
+          template: markdown
           config_display: column
           base_indepth: yes
           config_octicon: yes
