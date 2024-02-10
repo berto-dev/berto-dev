@@ -64,6 +64,8 @@
   
 ## <b>🚀🧠 systems, tools and technologies</b>
 
+![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray)
+
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=archlinux&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=aqua)
@@ -84,11 +86,8 @@
 ![](https://img.shields.io/badge/Tool-Adobe-informational?style=flat-square&logo=Adobe&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Wamp-informational?style=flat-square&logo=Wattpad&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
-  
-  
-| ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=berto-dev&left_color=black&right_color=aqua)|![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray)| 
-|:---:|:---:|
-  
+
+
 <hr>
 
 </div>
