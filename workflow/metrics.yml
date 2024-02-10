@@ -16,11 +16,11 @@ jobs:
           user: berto-dev
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          repo: berto-dev
+          #repo: berto-dev
+          #template: repository
 
           # Options
-          base: activity, repositories
-          template: repository
+          base: activity, repositories, metadata
           config_display: column
           base_indepth: yes
           config_octicon: yes
