@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<img src="github-metrics.svg" width="100%"><hr>
+<!--<img src="github-metrics.svg" width="100%"><hr>-->
 
 <table><tr><td>
 
