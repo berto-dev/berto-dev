@@ -11,64 +11,26 @@
 <hr>
 
 <br>
-<br>
-<!--<img src="github-metrics.svg" width="100%"><hr>-->
 
-<table><tr><td>
+<b>DIGIΓΔL / IT ROMA / DEVEET GROUP</b><br>
+FULLSTACK JS - NODE - PHP - C|Compiling<br>
 
-<!--<img alt="berto works tech hub" align="right" width="220" src="https://github.com/berto-dev/berto-dev/blob/master/resources/cyber.gif?raw=true" />-->
+> BIO:
+> 👋 Hello World! I’m Alberto, aka @berto-dev </b><br>
+> 56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now <wbr>I make modern designs and software structures, line by line and code by code. I am "An ex creative passed to darkside of force... the hard codes"
+
+<a href="https://github.com/berto-dev/"> ![](https://img.shields.io/badge/Website_profile-open_🡥-informational?style=flat-square&logo=google&logoColor=white&color=3f3e3d) </a> <a href="https://www.instagram.com/_berto.dev/"> ![](https://img.shields.io/badge/Instagram_profile-open_🡥-informational?style=flat-square&logo=instagram&logoColor=white&color=3f3e3d) </a> <a href="https://github.com/berto-dev/"> ![](https://img.shields.io/badge/github_profile-open_🡥-informational?style=flat-square&logo=github&logoColor=white&color=3f3e3d) </a> <a href="https://www.linkedin.com/in/berto-dev/"> ![](https://img.shields.io/badge/Linkedin_profile-open_🡥-informational?style=flat-square&logo=linkedin&logoColor=white&color=3f3e3d) </a> 
 
 <br>
-  <div align="center">
-    <b>DIGIΓΔL / IT ROMA</b><br>https://berto.dev /DEVEET GROUP<b><br>
-    👋 Hello World! I’m Alberto, aka @berto-dev </b>
-    <br>
-    <code>"An ex creative passed to darkside of force... the codes."</code>
-    <br>
-    <br>
-    <a align="center" href="https://www.instagram.com/_berto.dev/">
-      <img alt="berto Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
-    </a>
-    &nbsp;
-    <a align="center" target="_blank" href="https://github.com/berto-dev/" disabled>
-      <img alt="berto Alberto Marà news" width="30px" src="./resources/github.png" />
-    </a>
-    &nbsp;
-    <a align="center" target="_blank" href="https://www.linkedin.com/in/berto-dev/">
-      <img alt="berto Allberto Marà linkedin" width="30px" src="./resources/linkedin.png" />
-    </a>
-     <!--
-    &nbsp;
-    <a align="center" target="_blank" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
-      <img alt="berto Alberto Marà spotify" width="30px" src="./resources/spotify.png" />
-    </a>
-    -->
-    &nbsp;
-    <a align="center" target="_blank" href="https://www.pinterest.it/berto_pins">
-      <img alt="berto Alberto Marà spotify" width="30px" src="./resources/pinterest.png" />
-    </a>
-    &nbsp;
-    <a align="center" target="_blank" href="https://berto.dev/">
-      <img alt="berto Alberto Marà google" width="30px" src="./resources/google.png" />
-    </a>
-    <br>
-    56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now <wbr>I make modern designs and software structures, line by line and code by code.
-    <br>
-    <b>{ FULLSTACK JS - NODE - PHP - C# }</b>
-  <div>
-<br>
-</div>
-</td></tr></table>
-  
-<hr>
-  
-## <b>🚀🧠 systems, tools and technologies</b>
+ 
+<b>Systems, tools and technologies:</b>
 
 ![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray)
 
-![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=archlinux&logoColor=white&color=aqua)
-![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white&color=aqua)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/OS-Linux_Arch-informational?style=flat-square&logo=archlinux&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/OS-Linux_Debian-informational?style=flat-square&logo=debian&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/OS-Microsoft_Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/OS-Apple_Connect-informational?style=flat-square&logo=appstore&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Cmd-Terminal-informational?style=flat-square&logo=Windows-Terminal&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=aqua)
@@ -81,18 +43,18 @@
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Engine-Cordova-informational?style=flat-square&logo=Apache-Cordova&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Semantic-Web-informational?style=flat-square&logo=Semantic-Web&logoColor=white&color=aqua)
-![](https://img.shields.io/badge/Tool-VScode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Web-SEO_Process-informational?style=flat-square&logo=Google-Analytics&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tool-VScode-informational?style=flat-square&logo=htmx&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat-square&logo=Figma&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Adobe-informational?style=flat-square&logo=Adobe&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Wamp-informational?style=flat-square&logo=Wattpad&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
 
+<br>
 
-<hr>
+---
 
-</div>
-
-## Folders and projects:
+### Folders and projects:
 
 > 🛈 This is the folders projects list with all public repository and code inside
 
