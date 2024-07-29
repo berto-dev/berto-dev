@@ -56,7 +56,7 @@ FULLSTACK JS - NODE - PHP - C|Compiling<br>
 
 ### Folders and projects:
 
-> 🛈 This is the folders projects list with all public repository and code inside
+> 🛈 These are the folders projects list with all public repository and code inside
 
 <a href="https://github.com/js-collection" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/109235940?s=200&v=4" size="50" height="50" width="50" align="left">
@@ -112,7 +112,22 @@ FULLSTACK JS - NODE - PHP - C|Compiling<br>
     An open collection of resources and extensions for wordpress
 </a>
 
+---
 
+Folders and old closed projects:
+> 🛈 These are the folders projects list of old projects for customes or some data assets
+<br>
+<a href="https://github.com/black-ink-tattoo" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/176918201?s=96&v=4" size="50" height="50" width="50" align="left">
+    <b>2016 - Black ink tattoo shop</b><br>
+    old static site of customer studio - full custom - php
+</a>
+<br><br>
+<a href="xxxx" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/000/583/361/original/timer-icon-vector.jpg" size="50" height="50" width="50" align="left">
+    <b>coming soon...</b><br>
+    ....
+</a>
 
 
 <!--
