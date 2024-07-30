@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <b>🕵🏼‍♂️ FOR ALL RECRUITERS</b>: YOU CAN FIND ALL MY <b><a href="#folders-and-projects">REPO AND PROJECTS IN THIS LIST</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;**[ OPEN WEBSITE ➜ ](https://berto.dev/)**
 
@@ -131,7 +131,7 @@ Folders and old closed projects:
 </a>
 <br><br>
 <a href="https://github.com/angelo-fotoeventi" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/176927257?s=200&v=4" size="50" height="50" width="50" align="left">
+    <img src="https://avatars.githubusercontent.com/u/177019827?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2012 - angelo-fotoeventi</b><br>
     old site with gallery and database of photographer - full custom - php
 </a>
