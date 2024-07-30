@@ -4,10 +4,11 @@
 
 </div>
 
+<!--
 <hr>
 
 <img alt="alberto marangelo works tech hub" src="./resources/berto.logo-banner.webp" /><br>
-
+-->
 <hr>
 
 <br>
