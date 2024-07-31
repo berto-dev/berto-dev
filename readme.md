@@ -118,6 +118,13 @@ FULLSTACK JS - NODE - PHP - C|Compiling<br>
 Folders and old closed projects:
 > 🛈 These are the folders projects list of old projects for customes or some data assets
 <br>
+
+<a href="https://github.com/condoweb" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/177073608?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>2016 - Black ink tattoo shop</b><br>
+    old static site of customer studio - full custom - php
+</a>
+<br><br>
 <a href="https://github.com/black-ink-tattoo" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/176918201?s=96&v=4" size="50" height="50" width="50" align="left">
     <b>2016 - Black ink tattoo shop</b><br>
