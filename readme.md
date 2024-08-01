@@ -122,25 +122,31 @@ Folders and old closed projects:
 <a href="https://github.com/condoweb" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/177073608?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2016 - Black ink tattoo shop</b><br>
-    old static site of customer studio - full custom - php
+    old static site of customer studio - full custom - php/js
 </a>
 <br><br>
 <a href="https://github.com/black-ink-tattoo" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/176918201?s=96&v=4" size="50" height="50" width="50" align="left">
     <b>2016 - Black ink tattoo shop</b><br>
-    old static site of customer studio - full custom - php
+    old static site of customer studio - full custom - php/js
 </a>
 <br><br>
 <a href="https://github.com/cantina-moronia" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/176927257?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2016 - Cantina Moronia</b><br>
-    old static site of customer - full custom - php
+    old static site of customer - full custom - php/js
 </a>
 <br><br>
 <a href="https://github.com/angelo-fotoeventi" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/177019827?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2012 - angelo-fotoeventi</b><br>
-    old site with gallery and database of photographer - full custom - php
+    old site with gallery and database of photographer - full custom - php/js
+</a>
+<br><br>
+<a href="https://github.com/dritta-in-diritto" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/177258559?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>2010/2011 - Dritta in diritto</b><br>
+    old site of dritta in diritto project - full custom - php/js
 </a>
 <br><br>
 <a href="xxxx" target="_blank">
