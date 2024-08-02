@@ -150,9 +150,15 @@ Folders and old closed projects:
 </a>
 <br><br>
 <a href="https://github.com/dritta-in-diritto" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/177258559?s=200&v=4" size="50" height="50" width="50" align="left">
-    <b>2010/2011 - Dritta in diritto</b><br>
-    old site of dritta in diritto project - full custom - php/js
+    <img src="https://avatars.githubusercontent.com/u/177320958?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>2010/2012 - Mev snc website</b><br>
+    an old low-cost promo and shop website - full custom - php/static
+</a>
+<br><br>
+<a href="https://github.com/mev-snc" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/176918201?s=96&v=4" size="50" height="50" width="50" align="left">
+    <b>2009 - Black ink tattoo shop</b><br>
+    old static site of customer studio - full custom - php/js
 </a>
 <br><br>
 <a href="https://github.com/black-ink-tattoo" target="_blank">
