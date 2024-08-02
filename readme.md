@@ -125,12 +125,6 @@ Folders and old closed projects:
     a startup static site, old ux/ui template - full custom - php/js
 </a>
 <br><br>
-<a href="https://github.com/black-ink-tattoo" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/176918201?s=96&v=4" size="50" height="50" width="50" align="left">
-    <b>2016 - Black ink tattoo shop</b><br>
-    old static site of customer studio - full custom - php/js
-</a>
-<br><br>
 <a href="https://github.com/cantina-moronia" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/176927257?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2016 - Cantina Moronia</b><br>
@@ -143,6 +137,12 @@ Folders and old closed projects:
     old site for wine delivery in the 2013 with mobile version, database, customization and ux studies - full custom - php/js
 </a>
 <br><br>
+<a href="https://github.com/fotocerimonieeventi" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/177306476?s=96&v=4" size="50" height="50" width="50" align="left">
+    <b>2012 - foto cerimonie eventi</b><br>
+    old promo static site - full custom - php/js
+</a>
+<br><br>
 <a href="https://github.com/angelo-fotoeventi" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/177019827?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2012 - angelo-fotoeventi</b><br>
@@ -153,6 +153,12 @@ Folders and old closed projects:
     <img src="https://avatars.githubusercontent.com/u/177258559?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2010/2011 - Dritta in diritto</b><br>
     old site of dritta in diritto project - full custom - php/js
+</a>
+<br><br>
+<a href="https://github.com/black-ink-tattoo" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/176918201?s=96&v=4" size="50" height="50" width="50" align="left">
+    <b>2009 - Black ink tattoo shop</b><br>
+    old static site of customer studio - full custom - php/js
 </a>
 <br><br>
 <a href="xxxx" target="_blank">
