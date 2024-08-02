@@ -125,6 +125,12 @@ Folders and old closed projects:
     a startup static site, old ux/ui template - full custom - php/js
 </a>
 <br><br>
+<a href="https://github.com/inliberauscita" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/177328953?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>2017 - ILU In libera uscita</b><br>
+    old wordpress site of customer - full custom - php/js
+</a>
+<br><br>
 <a href="https://github.com/cantina-moronia" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/176927257?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2016 - Cantina Moronia</b><br>
