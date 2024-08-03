@@ -175,8 +175,8 @@ Folders and old closed projects:
 <br><br>
 <a href="xxxx" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/000/583/361/original/timer-icon-vector.jpg" size="50" height="50" width="50" align="left">
-    <b>coming soon...</b><br>
-    ....
+    <b>2008/Before...</b><br>
+    lost in time...
 </a>
 
 <!--
