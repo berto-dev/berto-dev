@@ -173,6 +173,12 @@ Folders and old closed projects:
     old static site of customer studio - full custom - php/js
 </a>
 <br><br>
+<a href="https://github.com/la-rocca-website" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/177575323?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>2009 - La Rocca</b><br>
+    old static simple site of customer, perhaps, one of the very first works
+</a>
+<br><br>
 <a href="xxxx" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/000/583/361/original/timer-icon-vector.jpg" size="50" height="50" width="50" align="left">
     <b>2008/Before...</b><br>
