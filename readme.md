@@ -161,6 +161,12 @@ Folders and old closed projects:
     an old low-cost promo and shop website - full custom - php/static
 </a>
 <br><br>
+<a href="https://github.com/la-nocerina" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/177579614?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>2010/2011 - ERP of La Nocerina</b><br>
+    old web erp project of an italy farm - full custom - php/js
+</a>
+<br><br>
 <a href="https://github.com/dritta-in-diritto" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/177258559?s=200&v=4" size="50" height="50" width="50" align="left">
     <b>2010/2011 - Dritta in diritto</b><br>
